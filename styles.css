@@ -3,6 +3,10 @@ body {
   background-repeat: repeat;
 }
 
+audio { 
+   display:none;
+}
+
 #zoom_text {
   position: absolute;
   left: 0;

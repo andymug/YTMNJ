@@ -1,3 +1,8 @@
+body {
+  background-image: url("jesterface.png");
+  background-repeat: repeat;
+}
+
 #zoom_text {
   position: absolute;
   left: 0;
